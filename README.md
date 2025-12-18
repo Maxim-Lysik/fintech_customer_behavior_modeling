@@ -23,7 +23,7 @@ The dataset contains anonymized client information.
 
 **Dataset Description**
 
-The project uses the Bank Marketing dataset from the UCI Machine Learning Repository.
+The project uses the Private Marketing dataset.
 
 Each row represents a single contact with a client during a marketing campaign.
 
