@@ -1,4 +1,4 @@
-# kyc_clients_risk_detection_2024
+# fintech_customer_behavior_modeling
 
 Project Overview
 
