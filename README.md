@@ -39,4 +39,4 @@ Feature Examples
 
 * Campaign-related: contact, duration, campaign, previous
 
-* Macroeconomic: pdays, poutcome
+* Macroeconomic: pdays, poutcome 
